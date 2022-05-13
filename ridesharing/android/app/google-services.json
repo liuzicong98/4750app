@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866583999518",
+    "project_id": "joincarpool-app",
+    "storage_bucket": "joincarpool-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866583999518:android:ec7259a8e59fa917d12a0f",
+        "android_client_info": {
+          "package_name": "com.ridesharing.demo.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866583999518-d5v0f62ic7rijp90gbbeh64lrt96tui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJTku6nh1f5wFwI9buAk79JSiY-eCzAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866583999518-d5v0f62ic7rijp90gbbeh64lrt96tui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
